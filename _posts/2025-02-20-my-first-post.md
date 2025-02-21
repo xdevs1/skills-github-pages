@@ -1,4 +1,4 @@
 ---
 title: My first Post 
-date: YYYY-MM-DD
+date: 2025-02-20
 ---
